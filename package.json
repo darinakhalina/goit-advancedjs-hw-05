@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "web-dev-server --node-resolve --watch --open",
+    "start": "web-dev-server --node-resolve --open --watch",
     "build": "tsc"
   },
   "keywords": [],
